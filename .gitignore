@@ -1,0 +1,7 @@
+# Ignore compilation files and local logs
+install/
+build/
+log/
+.vscode/
+.DS_Store
+*.pyc
