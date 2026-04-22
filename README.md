@@ -3,11 +3,15 @@
 Official repository for the international eVTOL drone project (EESC-USP/Prof. Glauco Caurin & KTH/Prof. Raffaello Mariani). Developing the full avionics suite (Software, Firmware, Hardware) using ROS 2 Jazzy and PX4 for advanced flight control and autonomous systems. Focused on robust, high-performance aerial robotics.
 
 ## 🛠 Tech Stack
+**Companion Cumputer:**
 - **Hardware:** Raspberry Pi 4B
 - **OS:** Ubuntu 24.04 (OS)
 - **Middleware:** ROS 2 Jazzy Jalisco
 - **Software:** MAVROS Python
+
 <br>
+
+**Flight Controller:**
 - **Hardware:** Cube Orange
 - **Firmware:** NuttX (RTOS)
 - **Middleware:** PX4 Autopilot
