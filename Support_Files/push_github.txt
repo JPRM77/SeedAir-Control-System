@@ -1,0 +1,20 @@
+Execute all of the commands inside of the directory you want to push
+
+Generate a token into the GitHub
+your_link = https://Your_username:Your_token@github.com/JPRM77/SeedAir-Control-System.git
+
+#Initialization
+git config --global user.name "Your user name"
+git config --global user.email "your_email@example.com"
+
+#Prepare Repository
+git init
+git branch -M main
+
+#Set Remote Access
+git remote add origin your_link
+
+#Work Flow
+git add .
+git commit -m "Changing Description"
+git push -u origin main
