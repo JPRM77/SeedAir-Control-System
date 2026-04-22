@@ -7,8 +7,7 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 - **OS:** Ubuntu 24.04 (OS)
 - **Middleware:** ROS 2 Jazzy Jalisco
 - **Software:** MAVROS Python
-
-
+<br>
 - **Hardware:** Cube Orange
 - **Firmware:** NuttX (RTOS)
 - **Middleware:** PX4 Autopilot
