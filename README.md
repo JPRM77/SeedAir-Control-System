@@ -6,8 +6,8 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 - **Hardware:** Raspberry Pi 4B
 - **OS:** Ubuntu 24.04 (OS)
 - **Middleware:** ROS 2 Jazzy Jalisco
-- **Software:** MAVROS Python\
-
+- **Software:** MAVROS Python
+\
 - **Hardware:** Cube Orange
 - **Firmware:** NuttX (RTOS)
 - **Middleware:** PX4 Autopilot
