@@ -18,7 +18,7 @@ Assuming you have ROS 2 Jazzy installed:
 
 ```bash
 # Clone the repository (if not already done)
-git clone https://github.com
+git clone https://github.com/JPRM77/SeedAir-Control-System.git
 
 # Build the workspace
 colcon build --symlink-install
