@@ -3,10 +3,16 @@
 Official repository for the international eVTOL drone project (EESC-USP/Prof. Glauco Caurin & KTH/Prof. Raffaello Mariani). Developing the full avionics suite (Software, Firmware, Hardware) using ROS 2 Jazzy and PX4 for advanced flight control and autonomous systems. Focused on robust, high-performance aerial robotics.
 
 ## 🛠 Tech Stack
-- **OS:** Ubuntu 24.04 (Noble Numbat)
+- **Hardware:** Raspberry Pi 4B
+- **OS:** Ubuntu 24.04 (OS)
 - **Middleware:** ROS 2 Jazzy Jalisco
-- **Autopilot:** PX4 Autopilot
-- **Communication:** MAVROS
+- **Software:** MAVROS Python
+
+- **Hardware:** Cube Orange
+- **Firmware:** NuttX (RTOS)
+- **Middleware:** PX4 Autopilot
+- **Software:** uORB C++
+- **Communication:** MAVLINK
 
 ## 📂 Project Structure
 - `fixed_wings/`: ROS 2 packages for fixed-wing flight modes and transitions.
