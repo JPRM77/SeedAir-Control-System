@@ -28,5 +28,6 @@ source install/setup.bash
 
 ## 👥 Authors
 - **João Paulo R. M.** - Avionics Lead
+- **Lucas da Rosa Leite** - Avionics Member
 - **Prof. Glauco Caurin** (EESC-USP)
 - **Prof. Raffaello Mariani** (KTH)
