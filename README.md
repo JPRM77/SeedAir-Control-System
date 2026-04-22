@@ -5,7 +5,7 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 ## 🛠 Tech Stack
 **Companion Cumputer:**
 - **Hardware:** Raspberry Pi 4B
-- **OS:** Ubuntu 24.04 (OS)
+- **Firmware:** Ubuntu 24.04 (OS)
 - **Middleware:** ROS 2 Jazzy Jalisco
 - **Software:** MAVROS Python
 
