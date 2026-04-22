@@ -6,7 +6,7 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 - **OS:** Ubuntu 24.04 (Noble Numbat)
 - **Middleware:** ROS 2 Jazzy Jalisco
 - **Autopilot:** PX4 Autopilot
-- **Communication:** Micro-XRCE-DDS
+- **Communication:** MAVROS
 
 ## 📂 Project Structure
 - `fixed_wings/`: ROS 2 packages for fixed-wing flight modes and transitions.
