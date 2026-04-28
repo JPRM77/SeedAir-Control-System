@@ -1,0 +1,13 @@
+Flight Modes (How the drone is suppose to be controlled)
+MANUAL
+OFFBOARD
+STABILIZED
+POSITION
+
+Flight Status (How it is into it mode stage)
+ARMED
+AUTO.TAKEOFF
+AUTO.LAND
+
+Flight State (Sofware)
+FINITE STATES MACHINE
