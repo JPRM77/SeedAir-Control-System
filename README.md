@@ -19,8 +19,8 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 - **Communication:** MAVLINK
 
 ## 📂 Project Structure
-- `seedair/`: The Official directorie of the project
-- `evtol/`: An example of evtol drone autonomous control code for optimizing the workflow
+- `seedair/`: The Official package of the project
+- `evtol/`: An example of evtol drone autonomous control package for optimizing the workflow
 - `fixed_wings/`: ROS 2 packages for fixed-wing flight modes and transitions.
 - `src/`: Core source code for avionics and control algorithms.
 - `Support_Files/`: Files created to help the project development
