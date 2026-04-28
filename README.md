@@ -22,6 +22,8 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 - `fixed_wings/`: ROS 2 packages for fixed-wing flight modes and transitions.
 - `src/`: Core source code for avionics and control algorithms.
 - `Support_Files/`: Files created to help the project development
+- `evtol/`: An example of evtol drone autonomous control code for optimizing the workflow
+- `seedair/`: The Oficial directorie of the project
 
 ## 🚀 Quick Start
 Assuming you have ROS 2 Jazzy installed:
