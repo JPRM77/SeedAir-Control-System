@@ -23,7 +23,7 @@ Official repository for the international eVTOL drone project (EESC-USP/Prof. Gl
 - `src/`: Core source code for avionics and control algorithms.
 - `Support_Files/`: Files created to help the project development
 - `evtol/`: An example of evtol drone autonomous control code for optimizing the workflow
-- `seedair/`: The Oficial directorie of the project
+- `seedair/`: The Official directorie of the project
 
 ## 🚀 Quick Start
 Assuming you have ROS 2 Jazzy installed:
